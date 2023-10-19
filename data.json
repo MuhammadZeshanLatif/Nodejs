@@ -1,0 +1,1689 @@
+[
+    {
+      "id": 1,
+      "movie": "The Shawshank Redemption",
+      "rating": 9.2,
+      "image": "images/shawshank.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0111161/",
+      "details": {
+        "release_year": 1994,
+        "director": "Frank Darabont",
+        "genre": ["Drama", "Crime"],
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 1995,
+            "winner": "Morgan Freeman"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Drama",
+            "year": 1995,
+            "winner": "The Shawshank Redemption"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "movie": "The Godfather",
+      "rating": 9.2,
+      "image": "images/godfather.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0068646/",
+      "details": {
+        "release_year": 1972,
+        "director": "Francis Ford Coppola",
+        "genre": ["Crime", "Drama"],
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1973,
+            "winner": "The Godfather"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 1973,
+            "winner": "Marlon Brando"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "movie": "The Dark Knight",
+      "rating": 9,
+      "image": "images/dark_knight.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0468569/",
+      "details": {
+        "release_year": 2008,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Crime", "Drama"],
+        "description": "When the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Supporting Actor",
+            "year": 2009,
+            "winner": "Heath Ledger"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Actor in a Supporting Role",
+            "year": 2009,
+            "winner": "Heath Ledger"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "movie": "Pulp Fiction",
+      "rating": 8.9,
+      "image": "images/pulp_fiction.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0110912/",
+      "details": {
+        "release_year": 1994,
+        "director": "Quentin Tarantino",
+        "genre": ["Crime", "Drama"],
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Screenplay",
+            "year": 1995,
+            "winner": "Quentin Tarantino"
+          },
+          {
+            "award_name": "Cannes Film Festival",
+            "category": "Palme d'Or",
+            "year": 1994,
+            "winner": "Pulp Fiction"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "movie": "The Lord of the Rings: The Return of the King",
+      "rating": 9,
+      "image": "images/lotr_return_king.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0167260/",
+      "details": {
+        "release_year": 2003,
+        "director": "Peter Jackson",
+        "genre": ["Adventure", "Drama", "Fantasy"],
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2004,
+            "winner": "The Lord of the Rings: The Return of the King"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Film",
+            "year": 2004,
+            "winner": "The Lord of the Rings: The Return of the King"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "movie": "The Good, the Bad and the Ugly",
+      "rating": 8.8,
+      "image": "images/good_bad_ugly.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0060196/",
+      "details": {
+        "release_year": 1966,
+        "director": "Sergio Leone",
+        "genre": ["Western"],
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "cast": ["Clint Eastwood", "Lee Van Cleef", "Eli Wallach"],
+        "awards": [
+          {
+            "award_name": "National Film Registry",
+            "category": "Selected for Preservation",
+            "year": 2014,
+            "winner": "The Good, the Bad and the Ugly"
+          },
+          {
+            "award_name": "David di Donatello Awards",
+            "category": "Best Foreign Director",
+            "year": 1967,
+            "winner": "Sergio Leone"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "movie": "Fight Club",
+      "rating": 8.8,
+      "image": "images/fight_club.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0137523/",
+      "details": {
+        "release_year": 1999,
+        "director": "David Fincher",
+        "genre": ["Drama", "Thriller"],
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "awards": [
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Actor",
+            "year": 2000,
+            "winner": "Brad Pitt"
+          },
+          {
+            "award_name": "Online Film Critics Society Awards",
+            "category": "Best Director",
+            "year": 2000,
+            "winner": "David Fincher"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "movie": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": 8.8,
+      "image": "images/lotr_fellowship.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0120737/",
+      "details": {
+        "release_year": 2001,
+        "director": "Peter Jackson",
+        "genre": ["Adventure", "Drama", "Fantasy"],
+        "description": "A young hobbit, Frodo, who has found the One Ring that belongs to the Dark Lord Sauron, begins his journey to Mount Doom to destroy the ring and save Middle-earth.",
+        "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 2002,
+            "winner": "Andrew Lesnie"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Special Visual Effects",
+            "year": 2002,
+            "winner": "The Lord of the Rings: The Fellowship of the Ring"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "movie": "Forrest Gump",
+      "rating": 8.8,
+      "image": "images/forrest_gump.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0109830/",
+      "details": {
+        "release_year": 1994,
+        "director": "Robert Zemeckis",
+        "genre": ["Drama", "Romance"],
+        "description": "The life of a man with low intelligence, who achieves great success in life through his innocence and kind-hearted nature.",
+        "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1995,
+            "winner": "Forrest Gump"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 1995,
+            "winner": "Robert Zemeckis"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "movie": "Inception",
+      "rating": 8.8,
+      "image": "images/inception.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1375666/",
+      "details": {
+        "release_year": 2010,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 2011,
+            "winner": "Wally Pfister"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Production Design",
+            "year": 2011,
+            "winner": "Inception"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "movie": "Schindler's List",
+      "rating": 8.9,
+      "image": "images/schindlers_list.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0108052/",
+      "details": {
+        "release_year": 1993,
+        "director": "Steven Spielberg",
+        "genre": ["Biography", "Drama", "History"],
+        "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Director",
+            "year": 1994,
+            "winner": "Steven Spielberg"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Drama",
+            "year": 1994,
+            "winner": "Schindler's List"
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "movie": "The Matrix",
+      "rating": 8.7,
+      "image": "images/matrix.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0133093/",
+      "details": {
+        "release_year": 1999,
+        "director": "The Wachowskis",
+        "genre": ["Action", "Sci-Fi"],
+        "description": "A computer programmer discovers that reality as he knows it is a simulation created by machines. He joins a group of rebels to free humanity from its enslavement.",
+        "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Visual Effects",
+            "year": 2000,
+            "winner": "The Matrix"
+          },
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Science Fiction Film",
+            "year": 2000,
+            "winner": "The Matrix"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "movie": "The Silence of the Lambs",
+      "rating": 8.6,
+      "image": "images/silence_of_the_lambs.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0102926/",
+      "details": {
+        "release_year": 1991,
+        "director": "Jonathan Demme",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "description": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+        "cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1992,
+            "winner": "The Silence of the Lambs"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 1992,
+            "winner": "Anthony Hopkins"
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "movie": "Gladiator",
+      "rating": 8.5,
+      "image": "images/gladiator.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0172495/",
+      "details": {
+        "release_year": 2000,
+        "director": "Ridley Scott",
+        "genre": ["Action", "Adventure", "Drama"],
+        "description": "A former Roman General seeks justice after being betrayed by a corrupt prince and sentenced to slavery.",
+        "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2001,
+            "winner": "Gladiator"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2001,
+            "winner": "Russell Crowe"
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "movie": "Avatar",
+      "rating": 7.8,
+      "image": "images/avatar.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0499549/",
+      "details": {
+        "release_year": 2009,
+        "director": "James Cameron",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Art Direction",
+            "year": 2010,
+            "winner": "Avatar"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 2010,
+            "winner": "James Cameron"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "movie": "The Departed",
+      "rating": 8.5,
+      "image": "images/departed.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0407887/",
+      "details": {
+        "release_year": 2006,
+        "director": "Martin Scorsese",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2007,
+            "winner": "The Departed"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 2007,
+            "winner": "Martin Scorsese"
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "movie": "The Revenant",
+      "rating": 8.0,
+      "image": "images/revenant.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1663202/",
+      "details": {
+        "release_year": 2015,
+        "director": "Alejandro González Iñárritu",
+        "genre": ["Adventure", "Drama", "Thriller"],
+        "description": "In the 1820s, a frontiersman fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+        "cast": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2016,
+            "winner": "Leonardo DiCaprio"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Film",
+            "year": 2016,
+            "winner": "The Revenant"
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "movie": "Eternal Sunshine of the Spotless Mind",
+      "rating": 8.3,
+      "image": "images/eternal_sunshine.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0338013/",
+      "details": {
+        "release_year": 2004,
+        "director": "Michel Gondry",
+        "genre": ["Drama", "Romance", "Sci-Fi"],
+        "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+        "cast": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Screenplay",
+            "year": 2005,
+            "winner": "Eternal Sunshine of the Spotless Mind"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Original Screenplay",
+            "year": 2005,
+            "winner": "Eternal Sunshine of the Spotless Mind"
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "movie": "The Green Mile",
+      "rating": 8.6,
+      "image": "images/green_mile.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0120689/",
+      "details": {
+        "release_year": 1999,
+        "director": "Frank Darabont",
+        "genre": ["Crime", "Drama", "Fantasy"],
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "cast": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2000,
+            "winner": "The Green Mile"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Supporting Role",
+            "year": 2000,
+            "winner": "Michael Clarke Duncan"
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "movie": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "image": "images/grand_budapest.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt2278388/",
+      "details": {
+        "release_year": 2014,
+        "director": "Wes Anderson",
+        "genre": ["Adventure", "Comedy", "Crime"],
+        "description": "A quirky comedy revolving around the adventures of the eccentric staff and guests at a luxurious European hotel between the World Wars.",
+        "cast": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 2015,
+            "winner": "The Grand Budapest Hotel"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Original Screenplay",
+            "year": 2015,
+            "winner": "The Grand Budapest Hotel"
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "movie": "The Shining",
+      "rating": 8.4,
+      "image": "images/the_shining.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0081505/",
+      "details": {
+        "release_year": 1980,
+        "director": "Stanley Kubrick",
+        "genre": ["Drama", "Horror"],
+        "description": "A family heads to an isolated hotel for the winter where sinister events unfold, which lead to the father's violent descent into madness and the son's psychic abilities that allow him to see the hotel's horrific past.",
+        "cast": ["Jack Nicholson", "Shelley Duvall", "Danny Lloyd"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actress in a Supporting Role",
+            "year": 1981,
+            "winner": "Shelley Duvall"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 1981,
+            "winner": "Stanley Kubrick"
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "movie": "The Pianist",
+      "rating": 8.5,
+      "image": "images/the_pianist.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0253474/",
+      "details": {
+        "release_year": 2002,
+        "director": "Roman Polanski",
+        "genre": ["Biography", "Drama", "Music"],
+        "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto during World War II.",
+        "cast": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Director",
+            "year": 2003,
+            "winner": "Roman Polanski"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2003,
+            "winner": "Adrien Brody"
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "movie": "A Beautiful Mind",
+      "rating": 8.2,
+      "image": "images/a_beautiful_mind.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0268978/",
+      "details": {
+        "release_year": 2001,
+        "director": "Ron Howard",
+        "genre": ["Biography", "Drama", "Romance"],
+        "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "cast": ["Russell Crowe", "Ed Harris", "Jennifer Connelly"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2002,
+            "winner": "A Beautiful Mind"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 2002,
+            "winner": "Ron Howard"
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "movie": "No Country for Old Men",
+      "rating": 8.1,
+      "image": "images/no_country_for_old_men.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0477348/",
+      "details": {
+        "release_year": 2007,
+        "director": "Joel Coen, Ethan Coen",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+        "cast": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2008,
+            "winner": "No Country for Old Men"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Director",
+            "year": 2008,
+            "winner": "Joel Coen, Ethan Coen"
+          }
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "movie": "The Great Gatsby",
+      "rating": 7.2,
+      "image": "images/great_gatsby.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1343092/",
+      "details": {
+        "release_year": 2013,
+        "director": "Baz Luhrmann",
+        "genre": ["Drama", "Romance"],
+        "description": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.",
+        "cast": ["Leonardo DiCaprio", "Carey Mulligan", "Joel Edgerton"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Production Design",
+            "year": 2014,
+            "winner": "The Great Gatsby"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Original Score",
+            "year": 2014,
+            "winner": "The Great Gatsby"
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "movie": "The Social Network",
+      "rating": 7.7,
+      "image": "images/social_network.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1285016/",
+      "details": {
+        "release_year": 2010,
+        "director": "David Fincher",
+        "genre": ["Biography", "Drama"],
+        "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by two brothers who claim he stole their idea.",
+        "cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Adapted Screenplay",
+            "year": 2011,
+            "winner": "The Social Network"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 2011,
+            "winner": "David Fincher"
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "movie": "Jurassic Park",
+      "rating": 8.1,
+      "image": "images/jurassic_park.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0107290/",
+      "details": {
+        "release_year": 1993,
+        "director": "Steven Spielberg",
+        "genre": ["Adventure", "Sci-Fi"],
+        "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+        "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Visual Effects",
+            "year": 1994,
+            "winner": "Jurassic Park"
+          },
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Director",
+            "year": 1994,
+            "winner": "Steven Spielberg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "movie": "Casablanca",
+      "rating": 8.5,
+      "image": "images/casablanca.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0034583/",
+      "details": {
+        "release_year": 1942,
+        "director": "Michael Curtiz",
+        "genre": ["Drama", "Romance", "War"],
+        "description": "A cynical American expatriate encounters a former lover, with unforeseen complications.",
+        "cast": ["Humphrey Bogart", "Ingrid Bergman", "Paul Henreid"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1944,
+            "winner": "Casablanca"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 1944,
+            "winner": "Michael Curtiz"
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "movie": "Titanic",
+      "rating": 7.8,
+      "image": "images/titanic.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0120338/",
+      "details": {
+        "release_year": 1997,
+        "director": "James Cameron",
+        "genre": ["Drama", "Romance"],
+        "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Director",
+            "year": 1998,
+            "winner": "James Cameron"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Drama",
+            "year": 1998,
+            "winner": "Titanic"
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "movie": "The Dark Knight Rises",
+      "rating": 8.4,
+      "image": "images/dark_knight_rises.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1345836/",
+      "details": {
+        "release_year": 2012,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "cast": ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 2013,
+            "winner": "The Dark Knight Rises"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Production Design",
+            "year": 2013,
+            "winner": "The Dark Knight Rises"
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "movie": "The Lion King",
+      "rating": 8.5,
+      "image": "images/lion_king.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0110357/",
+      "details": {
+        "release_year": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "genre": ["Animation", "Adventure", "Drama"],
+        "description": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days.",
+        "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 1995,
+            "winner": "The Lion King"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Original Score",
+            "year": 1995,
+            "winner": "The Lion King"
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "movie": "The Matrix Reloaded",
+      "rating": 7.2,
+      "image": "images/matrix_reloaded.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0234215/",
+      "details": {
+        "release_year": 2003,
+        "director": "The Wachowskis",
+        "genre": ["Action", "Sci-Fi"],
+        "description": "Neo and his allies race against time before the machines discover the city of Zion and destroy it. While seeking the truth about the Matrix, Neo must save Trinity from a dark fate.",
+        "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Visual Effects",
+            "year": 2004,
+            "winner": "The Matrix Reloaded"
+          },
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Science Fiction Film",
+            "year": 2004,
+            "winner": "The Matrix Reloaded"
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "movie": "The Martian",
+      "rating": 8.0,
+      "image": "images/martian.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt3659388/",
+      "details": {
+        "release_year": 2015,
+        "director": "Ridley Scott",
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "description": "An astronaut becomes stranded on Mars after his team assumes him dead and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+        "cast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2016,
+            "winner": "Matt Damon"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Motion Picture – Musical or Comedy",
+            "year": 2016,
+            "winner": "Matt Damon"
+          }
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "movie": "The Sound of Music",
+      "rating": 8.0,
+      "image": "images/sound_of_music.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0059742/",
+      "details": {
+        "release_year": 1965,
+        "director": "Robert Wise",
+        "genre": ["Biography", "Drama", "Family"],
+        "description": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.",
+        "cast": ["Julie Andrews", "Christopher Plummer", "Eleanor Parker"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1966,
+            "winner": "The Sound of Music"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Musical",
+            "year": 1966,
+            "winner": "The Sound of Music"
+          }
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "movie": "The King's Speech",
+      "rating": 8.0,
+      "image": "images/kings_speech.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1504320/",
+      "details": {
+        "release_year": 2010,
+        "director": "Tom Hooper",
+        "genre": ["Biography", "Drama"],
+        "description": "The story of King George VI, his impromptu ascension to the throne of the British Empire, and the speech therapist who helped the unsure monarch overcome his stammer.",
+        "cast": ["Colin Firth", "Geoffrey Rush", "Helena Bonham Carter"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2011,
+            "winner": "The King's Speech"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2011,
+            "winner": "Colin Firth"
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "movie": "Good Will Hunting",
+      "rating": 8.3,
+      "image": "images/good_will_hunting.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0119217/",
+      "details": {
+        "release_year": 1997,
+        "director": "Gus Van Sant",
+        "genre": ["Drama"],
+        "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "cast": ["Matt Damon", "Robin Williams", "Ben Affleck"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Screenplay",
+            "year": 1998,
+            "winner": "Good Will Hunting"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Screenplay",
+            "year": 1998,
+            "winner": "Good Will Hunting"
+          }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "movie": "The Pursuit of Happyness",
+      "rating": 8.0,
+      "image": "images/pursuit_of_happyness.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0454921/",
+      "details": {
+        "release_year": 2006,
+        "director": "Gabriele Muccino",
+        "genre": ["Biography", "Drama"],
+        "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+        "cast": ["Will Smith", "Jaden Smith", "Thandie Newton"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2007,
+            "winner": "Will Smith"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2007,
+            "winner": "Will Smith"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "movie": "The Avengers",
+      "rating": 8.0,
+      "image": "images/avengers.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0848228/",
+      "details": {
+        "release_year": 2012,
+        "director": "Joss Whedon",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Visual Effects",
+            "year": 2013,
+            "winner": "The Avengers"
+          },
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Science Fiction Film",
+            "year": 2013,
+            "winner": "The Avengers"
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "movie": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "image": "images/grand_budapest.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt2278388/",
+      "details": {
+        "release_year": 2014,
+        "director": "Wes Anderson",
+        "genre": ["Adventure", "Comedy", "Crime"],
+        "description": "A quirky comedy revolving around the adventures of the eccentric staff and guests at a luxurious European hotel between the World Wars.",
+        "cast": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 2015,
+            "winner": "The Grand Budapest Hotel"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Original Screenplay",
+            "year": 2015,
+            "winner": "The Grand Budapest Hotel"
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "movie": "The Shawshank Redemption",
+      "rating": 9.2,
+      "image": "images/shawshank.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0111161/",
+      "details": {
+        "release_year": 1994,
+        "director": "Frank Darabont",
+        "genre": ["Drama"],
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 1995,
+            "winner": "The Shawshank Redemption"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Motion Picture – Drama",
+            "year": 1995,
+            "winner": "Morgan Freeman"
+          }
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "movie": "Inception",
+      "rating": 8.8,
+      "image": "images/inception.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1375666/",
+      "details": {
+        "release_year": 2010,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 2011,
+            "winner": "Inception"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Production Design",
+            "year": 2011,
+            "winner": "Inception"
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "movie": "Forrest Gump",
+      "rating": 8.8,
+      "image": "images/forrest_gump.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0109830/",
+      "details": {
+        "release_year": 1994,
+        "director": "Robert Zemeckis",
+        "genre": ["Drama", "Romance"],
+        "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+        "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1995,
+            "winner": "Forrest Gump"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Motion Picture – Drama",
+            "year": 1995,
+            "winner": "Tom Hanks"
+          }
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "movie": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": 8.8,
+      "image": "images/lotr_fellowship.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0120737/",
+      "details": {
+        "release_year": 2001,
+        "director": "Peter Jackson",
+        "genre": ["Action", "Adventure", "Drama"],
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 2002,
+            "winner": "The Lord of the Rings: The Fellowship of the Ring"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Director",
+            "year": 2002,
+            "winner": "Peter Jackson"
+          }
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "movie": "Fight Club",
+      "rating": 8.8,
+      "image": "images/fight_club.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0137523/",
+      "details": {
+        "release_year": 1999,
+        "director": "David Fincher",
+        "genre": ["Drama"],
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "cast": ["Edward Norton", "Brad Pitt", "Helena Bonham Carter"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Sound Editing",
+            "year": 2000,
+            "winner": "Fight Club"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Sound",
+            "year": 2000,
+            "winner": "Fight Club"
+          }
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "movie": "The Good, the Bad and the Ugly",
+      "rating": 8.8,
+      "image": "images/good_bad_ugly.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0060196/",
+      "details": {
+        "release_year": 1966,
+        "director": "Sergio Leone",
+        "genre": ["Western"],
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "cast": ["Clint Eastwood", "Lee Van Cleef", "Eli Wallach"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 1968,
+            "winner": "The Good, the Bad and the Ugly"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Original Score",
+            "year": 1968,
+            "winner": "The Good, the Bad and the Ugly"
+          }
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "movie": "The Revenant",
+      "rating": 8.0,
+      "image": "images/revenant.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1663202/",
+      "details": {
+        "release_year": 2015,
+        "director": "Alejandro González Iñárritu",
+        "genre": ["Adventure", "Drama", "Thriller"],
+        "description": "A frontiersman on a fur trading expedition fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+        "cast": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2016,
+            "winner": "Leonardo DiCaprio"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Drama",
+            "year": 2016,
+            "winner": "The Revenant"
+          }
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "movie": "Gladiator",
+      "rating": 8.5,
+      "image": "images/gladiator.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0172495/",
+      "details": {
+        "release_year": 2000,
+        "director": "Ridley Scott",
+        "genre": ["Action", "Adventure", "Drama"],
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2001,
+            "winner": "Gladiator"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Drama",
+            "year": 2001,
+            "winner": "Gladiator"
+          }
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "movie": "Avatar",
+      "rating": 7.8,
+      "image": "images/avatar.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0499549/",
+      "details": {
+        "release_year": 2009,
+        "director": "James Cameron",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Art Direction",
+            "year": 2010,
+            "winner": "Avatar"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 2010,
+            "winner": "James Cameron"
+          }
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "movie": "The Matrix",
+      "rating": 8.7,
+      "image": "images/matrix.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0133093/",
+      "details": {
+        "release_year": 1999,
+        "director": "The Wachowskis",
+        "genre": ["Action", "Sci-Fi"],
+        "description": "A computer programmer discovers that reality as he knows it is a simulation created by machines to subjugate humanity.",
+        "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Visual Effects",
+            "year": 2000,
+            "winner": "The Matrix"
+          },
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Science Fiction Film",
+            "year": 2000,
+            "winner": "The Matrix"
+          }
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "movie": "The Silence of the Lambs",
+      "rating": 8.6,
+      "image": "images/silence_of_the_lambs.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0102926/",
+      "details": {
+        "release_year": 1991,
+        "director": "Jonathan Demme",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "cast": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1992,
+            "winner": "The Silence of the Lambs"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Director",
+            "year": 1992,
+            "winner": "Jonathan Demme"
+          }
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "movie": "The Dark Knight Rises",
+      "rating": 8.4,
+      "image": "images/dark_knight_rises.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1345836/",
+      "details": {
+        "release_year": 2012,
+        "director": "Christopher Nolan",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "cast": ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 2013,
+            "winner": "The Dark Knight Rises"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Production Design",
+            "year": 2013,
+            "winner": "The Dark Knight Rises"
+          }
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "movie": "The Lion King",
+      "rating": 8.5,
+      "image": "images/lion_king.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0110357/",
+      "details": {
+        "release_year": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "genre": ["Animation", "Adventure", "Drama"],
+        "description": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days.",
+        "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 1995,
+            "winner": "The Lion King"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Original Score",
+            "year": 1995,
+            "winner": "The Lion King"
+          }
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "movie": "The Matrix Reloaded",
+      "rating": 7.2,
+      "image": "images/matrix_reloaded.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0234215/",
+      "details": {
+        "release_year": 2003,
+        "director": "The Wachowskis",
+        "genre": ["Action", "Sci-Fi"],
+        "description": "Neo and his allies race against time before the machines discover the city of Zion and destroy it. While seeking the truth about the Matrix, Neo must save Trinity from a dark fate.",
+        "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Visual Effects",
+            "year": 2004,
+            "winner": "The Matrix Reloaded"
+          },
+          {
+            "award_name": "Saturn Awards",
+            "category": "Best Science Fiction Film",
+            "year": 2004,
+            "winner": "The Matrix Reloaded"
+          }
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "movie": "The Martian",
+      "rating": 8.0,
+      "image": "images/martian.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt3659388/",
+      "details": {
+        "release_year": 2015,
+        "director": "Ridley Scott",
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "description": "An astronaut becomes stranded on Mars after his team assumes him dead and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+        "cast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2016,
+            "winner": "Matt Damon"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Motion Picture – Musical or Comedy",
+            "year": 2016,
+            "winner": "Matt Damon"
+          }
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "movie": "The Sound of Music",
+      "rating": 8.0,
+      "image": "images/sound_of_music.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0059742/",
+      "details": {
+        "release_year": 1965,
+        "director": "Robert Wise",
+        "genre": ["Biography", "Drama", "Family"],
+        "description": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.",
+        "cast": ["Julie Andrews", "Christopher Plummer", "Eleanor Parker"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 1966,
+            "winner": "The Sound of Music"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Motion Picture – Musical",
+            "year": 1966,
+            "winner": "The Sound of Music"
+          }
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "movie": "The King's Speech",
+      "rating": 8.0,
+      "image": "images/kings_speech.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt1504320/",
+      "details": {
+        "release_year": 2010,
+        "director": "Tom Hooper",
+        "genre": ["Biography", "Drama"],
+        "description": "The story of King George VI, his impromptu ascension to the throne of the British Empire, and the speech therapist who helped the unsure monarch overcome his stammer.",
+        "cast": ["Colin Firth", "Geoffrey Rush", "Helena Bonham Carter"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Picture",
+            "year": 2011,
+            "winner": "The King's Speech"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Actor in a Leading Role",
+            "year": 2011,
+            "winner": "Colin Firth"
+          }
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "movie": "Shawshank Redemption",
+      "rating": 8.7,
+      "image": "images/shawshank_redemption.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0111161/",
+      "details": {
+        "release_year": 1994,
+        "director": "Frank Darabont",
+        "genre": ["Drama"],
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Cinematography",
+            "year": 1995,
+            "winner": "Shawshank Redemption"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actor in a Motion Picture – Drama",
+            "year": 1995,
+            "winner": "Morgan Freeman"
+          }
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "movie": "Eternal Sunshine of the Spotless Mind",
+      "rating": 8.3,
+      "image": "images/eternal_sunshine.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0338013/",
+      "details": {
+        "release_year": 2004,
+        "director": "Michel Gondry",
+        "genre": ["Drama", "Romance", "Sci-Fi"],
+        "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+        "cast": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Screenplay",
+            "year": 2005,
+            "winner": "Eternal Sunshine of the Spotless Mind"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Actress in a Motion Picture – Drama",
+            "year": 2005,
+            "winner": "Kate Winslet"
+          }
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "movie": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "image": "images/grand_budapest.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt2278388/",
+      "details": {
+        "release_year": 2014,
+        "director": "Wes Anderson",
+        "genre": ["Adventure", "Comedy", "Crime"],
+        "description": "A quirky comedy revolving around the adventures of the eccentric staff and guests at a luxurious European hotel between the World Wars.",
+        "cast": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 2015,
+            "winner": "The Grand Budapest Hotel"
+          },
+          {
+            "award_name": "BAFTA Awards",
+            "category": "Best Original Screenplay",
+            "year": 2015,
+            "winner": "The Grand Budapest Hotel"
+          }
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "movie": "The Good, the Bad and the Ugly",
+      "rating": 8.8,
+      "image": "images/good_bad_ugly.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt0060196/",
+      "details": {
+        "release_year": 1966,
+        "director": "Sergio Leone",
+        "genre": ["Western"],
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "cast": ["Clint Eastwood", "Lee Van Cleef", "Eli Wallach"],
+        "awards": [
+          {
+            "award_name": "Academy Awards",
+            "category": "Best Original Score",
+            "year": 1968,
+            "winner": "The Good, the Bad and the Ugly"
+          },
+          {
+            "award_name": "Golden Globe Awards",
+            "category": "Best Original Score",
+            "year": 1968,
+            "winner": "The Good, the Bad and the Ugly"
+          }
+        ]
+      }
+    }
+  ]
+  
+  
+  
+  
+  
+  
+    
